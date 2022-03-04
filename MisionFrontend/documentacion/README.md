@@ -12,10 +12,10 @@
 * La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
 ### Prácticas
-[Toma de requerimientos](https://docs.google.com/document/d/1FV71IzJDlPuEtyQgMDh4FEAEhkq3Fxhj/edit?usp=sharing&ouid=114591606279919643819&rtpof=true&sd=true)
-[Buyer Persona](https://docs.google.com/document/d/1Mhnn3AASHA9EgGgAchpb3J8iBUOFUHBI_r6SZwRvGCI/edit?usp=sharing)
-[Público objetivo](https://miro.com/app/board/uXjVOIZ-j5U=/?invite_link_id=507288882195)
-[Wireframe UX](https://marvelapp.com/prototype/afgdc07)
-[UI](https://www.figma.com/file/z9POAdNepAsWLHZvVvoysb/Abogabot?node-id=0%3A1)
+* [Toma de requerimientos](https://docs.google.com/document/d/1FV71IzJDlPuEtyQgMDh4FEAEhkq3Fxhj/edit?usp=sharing&ouid=114591606279919643819&rtpof=true&sd=true)
+* [Buyer Persona](https://docs.google.com/document/d/1Mhnn3AASHA9EgGgAchpb3J8iBUOFUHBI_r6SZwRvGCI/edit?usp=sharing)
+* [Público objetivo](https://miro.com/app/board/uXjVOIZ-j5U=/?invite_link_id=507288882195)
+* [Wireframe UX](https://marvelapp.com/prototype/afgdc07)
+* [UI](https://www.figma.com/file/z9POAdNepAsWLHZvVvoysb/Abogabot?node-id=0%3A1)
 
 
